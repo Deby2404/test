@@ -75,7 +75,7 @@ footer {
   }
 
   main {
-    width: 90%;
+    width: 100%;
     display: wrap;
     flex-direction: column;
     align-items: center;
