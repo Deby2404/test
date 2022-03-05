@@ -84,14 +84,18 @@ footer {
 
   .step {
     width: 90%;
+    margin: 0px;
   }
+
 
   .step-img1 {
     height: 150px;
+    
   }
 
   .step-img2 {
     height: 150px;
+    margin-left: 20px;
   }
 
   .step-img3 {
